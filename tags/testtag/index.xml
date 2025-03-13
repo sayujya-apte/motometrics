@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Testtag on MotoMetrics</title>
+    <link>https://sayujya-apte.github.io/motometrics/tags/testtag/</link>
+    <description>Recent content in Testtag on MotoMetrics</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 13 Mar 2025 19:48:58 +0530</lastBuildDate>
+    <atom:link href="https://sayujya-apte.github.io/motometrics/tags/testtag/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>First Post</title>
+      <link>https://sayujya-apte.github.io/motometrics/posts/firstpost/</link>
+      <pubDate>Thu, 13 Mar 2025 19:48:58 +0530</pubDate>
+      <guid>https://sayujya-apte.github.io/motometrics/posts/firstpost/</guid>
+      <description>&lt;h1 id=&#34;an-experimental-first-post&#34;&gt;An experimental first post&lt;/h1&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://github.com/sayujya-apte/motometrics-static/blob/0130d2ef2923709c3b5929254b1d5102e670b2db/testfolder/testimage.jpg?raw=true&#34; alt=&#34;Image&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
